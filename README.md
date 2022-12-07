@@ -6,7 +6,7 @@
 bikeshare analysis
 
 ### Description
-Describe what your project is about and what it does
+analysis for bike apps
 
 ### Files used
 Include the files used

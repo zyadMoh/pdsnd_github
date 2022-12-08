@@ -6,6 +6,10 @@ bikeshare analysis
 ### Description
 analysis for bike apps
 
+### python packages:
+* pandas
+* numpy
+
 ### Files used
 * chicago.csv
 * new_york_city.csv

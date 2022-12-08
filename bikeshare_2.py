@@ -27,7 +27,7 @@ def get_filters():
     day_list = ["all", "monday", "tuesday", "wednesday", "thursday", "friday","saturday", "sunday"]
     day = input("Please enter the specifc day OR all: ").lower()
     while day.lower() not in day_list:
-       day= input("please choose a month from the given days: ").lower()
+       day= input("not valid please choose a month from the given days: ").lower()
     print("You have chosen{ ",day," }")
 
     print('-'*40)
